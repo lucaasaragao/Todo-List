@@ -1,2 +1,2 @@
 # Todo-List
-Todo List com linguagens diferentes. Apenas para estud. 
+Brincando de fazer ToDo de diferentes formas e com diferentes linguagens. 
